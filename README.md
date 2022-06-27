@@ -16,7 +16,7 @@ Tic Tac Toe is a two-player game (one of them being played by computer or human)
 
 
 <p align="center">
-        <img width="260" height="300"   src="https://user-images.githubusercontent.com/104670713/170813708-b23e89cf-a23d-4fde-889f-f9c708bcd025.png">
+        <img width="460" height="600"   src="https://user-images.githubusercontent.com/89569367/175861279-7aaae603-b5f2-40b8-ae4a-2357a1f8a70c.jpg">
 </p>
 
 
