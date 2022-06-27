@@ -1,5 +1,7 @@
 # TicTacToe-Game-App
-
+<p align="center">
+        <img width="460" height="500"   src="https://user-images.githubusercontent.com/89569367/175859200-93fa341d-89c2-4da5-9a39-cc9d87f2e039.png">
+</p>
 
 ### OBJECTIVE:
 This project aims to develop a Tic Tac Toe game using Java and Andriod Studio. It mainly consists of developing and implementing a computer program where two players can play Tic Tac Toe against eachother.<br/> o develop a Tic Tac Toe game using java. It mainly consists of developing and implementing a computer program where two players can play Tic Tac Toe against eachother.<br/>
