@@ -118,6 +118,11 @@ A player can choose between two symbols with his opponent, usual game uses â€œXâ
 a.	One of the players gets three of his/her marks in a row (vertically, horizontally, or diagonally) i.e. that player wins the game.<br/>
 b.	If no one can create a straight line with their own mark and all the positions on the board are occupied, then the game ends in a  draw/tie.
 
+
+<p align="center">
+       <img width="560" height="600"   src="https://user-images.githubusercontent.com/89569367/175860935-7ffd8914-dabc-4ddc-b57c-01c09ac53c47.gif">
+</p>
+
 ### IMPLEMENTATION PLAN:
 The implementation workflow for this project is as follows:
 
