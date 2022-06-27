@@ -125,7 +125,10 @@ The implementation workflow for this project is as follows:
 In order to visualize the defined game rules and description, the game is shown in Figures below.
 
 First the game will start with empty board.<br/>
-![image](https://upload.wikimedia.org/wikipedia/commons/6/64/Tic-tac-toe.png)
+<p align="center">
+        <img width="560" height="600"   src="https://upload.wikimedia.org/wikipedia/commons/6/64/Tic-tac-toe.png">
+</p>
+
 
 Then Player 1 will make his/her move by playing mark “X” on this board. Then Player 2 will make his/her move by playing mark “O” on this board. This will keep on continuing until the board is full of marks.
 
