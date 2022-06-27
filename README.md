@@ -30,7 +30,9 @@ The game can be played by two players.
 
 A player can choose between two symbols with his opponent, usual game uses “X” and “O”.
 
-![image](https://www.dreamstime.com/popular-drawing-o-cross-marks-circles-tic-tac-toe-game-symbol-isolated-image147829023)
+<p align="center">
+        <img width="560" height="400"   src="https://user-images.githubusercontent.com/89569367/175860112-b157f59a-7c8f-4904-a1ad-f5d126044b2b.png">
+</p>
 
 
 
