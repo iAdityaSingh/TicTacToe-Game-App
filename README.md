@@ -88,7 +88,10 @@ Then the program will check if Player 1 with “X” wins or Player 2 with “O�
 If none of the players win, the program will check for draw.
 
 
-![image](https://i.stack.imgur.com/gGJEY.png)
+<p align="center">
+        <img width="560" height="600"   src="https://i.stack.imgur.com/gGJEY.png">
+</p>
+
 
 
 All this decision making is done by using Minimax algorithm.
